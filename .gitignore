@@ -1,0 +1,7 @@
+# Default ignored files
+project/
+target/
+.bsp/
+.idea/
+build.sbt
+.ipynb_checkpoints/
